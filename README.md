@@ -12,5 +12,5 @@ A collection of papers and code repositories for employing Multi-Modal Large Lan
 | VisualCritic: Making LMMs Perceive Visual Quality Like Humans | - | [Paper](https://arxiv.org/pdf/2403.12806v1.pdf) | [Code](#) |
 | AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception | - | [Paper](https://arxiv.org/pdf/2401.08276.pdf) | [Code](https://github.com/yipoh/AesBench) |
 | 2AFC Prompting of Large Multimodal Models for Image Quality Assessment | - | [Paper](https://arxiv.org/abs/2402.01162) | [Code](https://github.com/h4nwei/2AFC-LMMs) |
-| A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment | - | [Paper](https://arxiv.org/abs/2403.10854)) | [Code]() |
+| A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment | - | [Paper](https://arxiv.org/abs/2403.10854) | [Code]() |
 

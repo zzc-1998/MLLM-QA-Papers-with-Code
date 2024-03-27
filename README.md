@@ -1,9 +1,10 @@
 # MLLM-QA-Papers-with-Code
 Collections of papers and code for employing MLLM for quality assessment tasks.
 
+# Papers
 
-**SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes**
 
-- Homepage: https://yihua7.github.io/SC-GS-web/ 
-- Paper: https://arxiv.org/abs/2312.14937
-- Code: https://github.com/yihua7/SC-GS
+*Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-modal Language Models
+-https://arxiv.org/pdf/2312.08962.pdf
+
+

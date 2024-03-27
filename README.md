@@ -6,6 +6,7 @@ Collections of papers and code for employing MLLM for quality assessment tasks.
 **Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision (ICLR2024-Spotlight)**
 
 -Paper:https://arxiv.org/pdf/2309.14181.pdf
+
 -Code:https://github.com/Q-Future/Q-Bench
 
 **Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models (CVPR2024)**

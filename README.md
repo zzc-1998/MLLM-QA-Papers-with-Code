@@ -13,6 +13,6 @@ A collection of papers and code repositories for employing Multi-Modal Large Lan
 | AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception | - | [Paper](https://arxiv.org/pdf/2401.08276.pdf) | [Code](https://github.com/yipoh/AesBench) |
 | 2AFC Prompting of Large Multimodal Models for Image Quality Assessment | - | [Paper](https://arxiv.org/abs/2402.01162) | [Code](https://github.com/h4nwei/2AFC-LMMs) |
 | A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment | - | [Paper](https://arxiv.org/abs/2403.10854) | [Code]() |
-| UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark | - | [Paper](https://arxiv.org/pdf/2404.09619.pdf) | [Code]()  |
+| UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark | - | [Paper](https://arxiv.org/pdf/2404.09619.pdf) | [Code](https://github.com/Uniaa-MLLM/Uniaa)  |
 | AesExpert: Towards Multi-modality Foundation Model for Image Aesthetics Perception | - | [Paper](https://arxiv.org/pdf/2404.09624.pdf) | [Code](https://github.com/yipoh/AesExpert) |
 
